@@ -13,6 +13,10 @@
     {
       "source": "/go/buy",
       "destination": "https://accboyytbxmdh.acceboy.com/zh-cn-cny/buy-tg"
+    },
+    {
+      "source": "/go/buy/",
+      "destination": "https://accboyytbxmdh.acceboy.com/zh-cn-cny/buy-tg"
     }
   ]
 }
